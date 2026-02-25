@@ -1,6 +1,6 @@
 streamlit
-openai
 pandas
 google-generativeai
 
 python-docx
+
